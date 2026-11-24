@@ -1,0 +1,1 @@
+My smartwatch has logged my heart rate as zero every night this week, and each morning the app calls it a sensor error. Last night it stopped calling it an error.
